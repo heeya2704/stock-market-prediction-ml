@@ -55,7 +55,7 @@ The dataset spans multiple years, enabling analysis of:
 stock-market-prediction-ml/
 - data/ # Dataset (CSV files)
 - notebooks/ # Jupyter notebooks
-- src/ # Source code (optional)
+- src/
 - README.md
 
 ---
