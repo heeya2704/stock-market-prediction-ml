@@ -53,11 +53,10 @@ The dataset spans multiple years, enabling analysis of:
 
 ## 📁 Project Structure
 stock-market-prediction-ml/
-│
-├── data/ # Dataset (CSV files)
-├── notebooks/ # Jupyter notebooks
-├── src/ # Source code (optional)
-├── README.md
+- data/ # Dataset (CSV files)
+- notebooks/ # Jupyter notebooks
+- src/ # Source code (optional)
+- README.md
 
 ---
 
